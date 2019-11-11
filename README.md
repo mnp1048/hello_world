@@ -1,2 +1,2 @@
 # hello_world
-tutorial repository 
+hi i'm hoonji
